@@ -257,7 +257,7 @@
     display: block;
 }
 .ppt .page1 {
-    /* delay:2000;speed:1 */
+    /* delay:5000;speed:1 */
     opacity: 0;
     display: none;
 }
@@ -291,7 +291,7 @@
     display: block;
 }
 .ppt .page2 {
-    /* delay:2000;speed:1 */
+    /* delay:5000;speed:1 */
     opacity: 0;
     display: none;
 }
@@ -321,7 +321,7 @@
     display: block;
 }
 .ppt .page3 {
-    /* delay:2000;speed:1 */
+    /* delay:5000;speed:1 */
     opacity: 0;
     display: none;
 }
@@ -355,7 +355,7 @@
     display: block;
 }
 .ppt .page4 {
-    /* delay:2000;speed:1 */
+    /* delay:5000;speed:1 */
     opacity: 0;
     display: none;
 }
@@ -395,7 +395,7 @@
     display: block;
 }
 .slide-container {
-    /* delay:2000 */
+    /* delay:5000 */
     -webkit-transform: translate(0, 0);
 }
 .future2 {
@@ -419,7 +419,7 @@
     display: block;
 }
 .slide-container {
-    /* delay:2000 */
+    /* delay:5000 */
     -webkit-transform: translate(0, 0);
 }
 
